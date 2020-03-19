@@ -14,5 +14,6 @@
 <body>
   <h1>MENU DE OPCIONES</h1>
     <a href="/video/create">agregar video</a>
+    <a href="/video/Index">Ver videos</a>
 </body>
 </html>
